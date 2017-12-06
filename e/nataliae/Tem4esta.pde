@@ -1,6 +1,6 @@
 class Tem12mes {
   /*Esta clase muestra el año completo con las temperaturas máximas y mínimas
-   junto con la humedad máxima y mínima y las nubes del año completo.*/
+  junto con la humedad máxima y mínima y las nubes del año completo.*/
   int maxima, minima, mes;
   float i, maxhum, minhum, nub;
 

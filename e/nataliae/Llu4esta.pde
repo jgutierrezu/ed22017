@@ -1,6 +1,6 @@
 class Llu4esta {
   /*Esta clase muestra las precipitaciones y la humedad media dividido en las
-   cuatro estaciones del año.*/
+  cuatro estaciones del año.*/
   float pre, i;
   int mes, medhum;
 
